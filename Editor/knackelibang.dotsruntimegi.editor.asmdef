@@ -1,0 +1,18 @@
+{
+    "name": "knackelibang.dotsruntimegi.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1c68ac702601b7341aa934d623e84766"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

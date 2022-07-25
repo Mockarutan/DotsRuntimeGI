@@ -1,0 +1,27 @@
+{
+  "name": "com.knackelibang.dotsruntimegi",
+  "version": "1.0.0",
+  "displayName": "Dots Runtime GI",
+  "description": "A runtime global illumination library made in Unity DOTS",
+  "unity": "2020.3",
+  "keywords": [
+    "Global Illumination",
+    "GI",
+	"Runtime Global Illumination",
+	"Runtime GI"
+  ],
+  "author": {
+    "name": "Knackelibang",
+    "email": "contact@Knackelibang.com",
+    "url": "https://www.Knackelibang.com"
+  },
+  "type": "library",
+  "publishConfig": {
+	"registry": "https://npm.pkg.github.com/@Mockarutan"
+  },
+  "repository": { 
+	"type": "git", 
+	"url": "git://github.com/Mockarutan/DotsRuntimeGI.git", 
+	"directory": "com.knackelibang.dotsruntimegi" 
+  }
+}
